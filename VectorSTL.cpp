@@ -1,3 +1,6 @@
+/*
+Vector STL functions implemented using C++ 
+*/
 #include <bits/stdc++.h>
 
 using namespace std;
